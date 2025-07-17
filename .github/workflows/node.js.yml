@@ -31,5 +31,5 @@ jobs:
         touch .env
         echo "${{ secrets.MONGO_URI }}" > .env
     
-   
+       - run: pm2 restart BackendAPI
     
