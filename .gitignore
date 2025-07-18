@@ -1,2 +1,6 @@
 node_modules
 .env
+
+#link for deployment doc in aws 
+
+#https://medium.com/@saminchandeepa/auto-deploy-node-js-rest-api-on-aws-ec2-ci-cd-pipeline-using-github-actions-031be66824d1
